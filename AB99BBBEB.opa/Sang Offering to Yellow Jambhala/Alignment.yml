@@ -1,0 +1,19 @@
+segment_sources:
+  PA679E4AC:
+    type: origin_type
+    relation: translation
+    language: en
+  P54076802:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  dbf45b4a59544c17b55a1f29aaad83a8:
+    PA679E4AC: 13dfaadfd69a4ec0a13bec7e1ba022ca
+    P54076802: b73abdb3e93143898ec0dcf39a49c70a
+  f2274c037c5e4a9e8240f4e36279407f:
+    PA679E4AC: e09f325150b24b0e8932949ad16ad01f
+    P54076802: a911a6999db64b809b0717d3460b30c9
+  332d92b50c4f45858ab455932fac72aa:
+    PA679E4AC: 9ff805dcade84781852b694333333c57
+    P54076802: 7bfbe6161da142c1afd408274f5e8279
